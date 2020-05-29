@@ -6,6 +6,7 @@ import com.jxa.commonutils.R;
 import com.jxa.eduservice.entity.EduTeacher;
 import com.jxa.eduservice.entity.vo.TeacherQuery;
 import com.jxa.eduservice.service.EduTeacherService;
+import com.jxa.servicebase.exceptionhandler.GuliException;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
